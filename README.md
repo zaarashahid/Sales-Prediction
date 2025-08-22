@@ -15,6 +15,13 @@ python -m venv venv
 source venv/bin/activate # Linux / macOS
 venv\Scripts\activate # Windows
 pip install -r requirements.txt
+Place your dataset in data/ (CSV). The code expects a Sales column and feature columns such as TV, Radio, Newspaper, Platform, Segment etc.
+
+Run training:
+
+python -m src.train --data data/your_file.csv --target Sales --test-size 0.2
+
+Inspect results and visualizations in outputs/ (created at runtime).
 ##Results
 <img width="986" height="986" alt="image" src="https://github.com/user-attachments/assets/a1aa6de7-f43d-4351-b1e8-9dc44c506968" />
 <img width="486" height="374" alt="image" src="https://github.com/user-attachments/assets/651fdad9-7e44-4685-a8d9-0158265d99c4" />
