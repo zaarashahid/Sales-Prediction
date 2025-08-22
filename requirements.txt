@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+pyyaml
+jupyter
+
+
+# Optional (for time series advanced models)
+statsmodels
+prophet
