@@ -23,8 +23,11 @@ python -m src.train --data data/your_file.csv --target Sales --test-size 0.2
 
 Inspect results and visualizations in outputs/ (created at runtime).
 ##Results
+
 <img width="986" height="986" alt="image" src="https://github.com/user-attachments/assets/a1aa6de7-f43d-4351-b1e8-9dc44c506968" />
+
 <img width="486" height="374" alt="image" src="https://github.com/user-attachments/assets/651fdad9-7e44-4685-a8d9-0158265d99c4" />
+
 Linear Regression Performance:
 RMSE: 1.782
 R² Score: 0.899
@@ -45,7 +48,9 @@ Random Forest Feature Importances:
 0         TV    0.624810
 1      Radio    0.362201
 2  Newspaper    0.012989
+
 <img width="592" height="393" alt="image" src="https://github.com/user-attachments/assets/f2c6c7b6-ae86-415e-a587-8effde0886b8" />
+
 Time Series Style Model:
 Linear Regression with Lag Feature Performance:
 RMSE: 1.683
