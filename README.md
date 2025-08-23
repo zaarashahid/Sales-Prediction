@@ -1,5 +1,19 @@
 # Sales-Prediction
+This project predicts future sales using machine learning models (Linear Regression and Random Forest), based on factors like advertising spend (TV, Radio, Newspaper), target customer segment, and sales platform. It also explores time-series style forecasting by incorporating lag features from historical sales data. The repository demonstrates:
 
+Data cleaning and transformation
+
+Feature engineering and selection
+
+Model training and evaluation (regression & ensemble models)
+
+Feature importance analysis (impact of advertising channels)
+
+Time series forecasting with lag features
+
+Actionable insights for marketing budget optimization
+
+The goal is to help businesses understand how changes in advertising allocation impact sales, enabling data-driven marketing strategies.
 
 Predict future sales from advertising spend and other features. This repository includes data preparation, modeling (Linear Regression & Random Forest), simple time-series forecasting with lag features, evaluation and visualizations.
 
