@@ -62,4 +62,4 @@ Business Insights:
 4. Including past sales as a feature improves forecasting, useful for demand planning.
 5. Marketing strategy: prioritize TV and Radio spend, reduce Newspaper allocation.
 
-![Result Plot](assets/download.png1)
+
