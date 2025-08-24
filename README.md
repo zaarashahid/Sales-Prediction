@@ -61,3 +61,5 @@ Business Insights:
 3. Regression and Random Forest both confirm diminishing returns after certain ad spends.
 4. Including past sales as a feature improves forecasting, useful for demand planning.
 5. Marketing strategy: prioritize TV and Radio spend, reduce Newspaper allocation.
+
+![Result Plot](assets/download.png1)
